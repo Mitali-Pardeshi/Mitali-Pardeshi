@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mitali-Pardeshi
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning, Web Development
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me emial:-pardeshimitali757@gmail.com
